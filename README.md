@@ -8,10 +8,10 @@
 - **Fun Facts:** I enjoy solving problems and working in a team! ⚡ 
 
 ### Connect with Me
--**Instagram 📸:** [@tasha.ab111](https://www.instagram.com/tasha.ab111/) 
+**Instagram 📸:** [@tasha.ab111](https://www.instagram.com/tasha.ab111/) 
 
 
-## Tech Stack & Tools
+### Tech Stack & Tools
 - **HTML5** 
 - **Git** 
 - **GitHub** 
