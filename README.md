@@ -10,6 +10,5 @@
 ### Connect with Me
 <p align="left">
   <a href="https://www.instagram.com/tasha.ab111/" target="_blank">
-    <img src="https://shields.io" />
   </a>
 </p>
