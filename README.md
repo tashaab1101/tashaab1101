@@ -3,9 +3,7 @@
 
 ### About Me
 - **Student at:** BINUS University 🎓 
-- **Major:** Information Systems 💻
-- **Current Focus:** Learning Web Development and Git Collaborations. 🚀 
-- **Fun Facts:** I enjoy solving problems and working in a team! ⚡ 
+- **Major:** Information Systems 💻 
 
 ### Connect with Me
 - **Instagram 📸:** [@tasha.ab111](https://www.instagram.com/tasha.ab111/) 
